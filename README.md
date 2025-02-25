@@ -3,7 +3,7 @@
 🚀 **Data & Tech Enthusiast**
 
 🔭 Sharing my Data Journey<br/>
-🌱 Currently learning about data analytics and data visualisation<br/>
+🌱 Learning about data analytics and data visualisation<br/>
 🎓 Studied Chemical Engineering at University Teknologi PETRONAS<br/>
 
 
