@@ -2,7 +2,7 @@
 
 🚀 **Data & Tech Enthusiast**
 
-Welcome to my data portfolio ! Here, I document a summary of my projects in the data field.
+Hi and welcome! This portfolio is a collection of my projects in the data field.
 
 
 # 💻 Tech Stack
